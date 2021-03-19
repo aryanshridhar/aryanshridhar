@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Rust and Golang**
 
-- 👨‍💻 All of my projects are available at [https://aryanshridhar.github.io/](https://aryanshridhar.github.io/)
+- 👨‍💻 All of my projects are available at [https://aryanshridhar.github.io/](https://aryanshridhar.github.io/) **[WIP]**
 
 - 📫 How to reach me **: aryanshridhar7@gmail.com**
 
