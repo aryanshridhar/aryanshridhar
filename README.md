@@ -1,9 +1,9 @@
 <h2 align="center">Hi 👋, I'm Aryan Shridhar</h2>
 <h4 align="center">An open source enthusiast.</h4>
 
-- 🌱 I’m currently learning **Rust and Golang**
+- 🌱 I’m currently working with [Zulip](https://github.com/zulip/zulip) under GSoC'21.
 
-- 👨‍💻 All of my projects are available at [https://aryanshridhar.github.io/](https://aryanshridhar.github.io/) **[WIP]**
+- 👨‍💻 Portfolio **:** [https://aryanshridhar.github.io/](https://aryanshridhar.github.io/) **[WIP]**
 
 - 📫 How to reach me **: aryanshridhar7@gmail.com**
 
