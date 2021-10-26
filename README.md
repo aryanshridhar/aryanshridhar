@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Aryan Shridhar</h2>
 <h4 align="center">An open source enthusiast.</h4>
 
-- 👨‍💻 Portfolio **:** [https://aryanshridhar.github.io/](https://aryanshridhar.github.io/)
+- 👨‍💻 Portfolio **:** [https://aryanshridhar.github.io/portfolio](https://aryanshridhar.github.io/portfolio).
 
 - 📫 How to reach me **: aryanshridhar7@gmail.com**
 
